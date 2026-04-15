@@ -18,7 +18,7 @@ Este proyecto consiste en la crear de una clase `TiendaOnline` en Python que sim
 
 1. Clona el repositorio:
 
-git clone https://github.com/tu_usuario/Evaluacion_Final_Mod01_DataAnalytics.git
+git clone (https://github.com/JezabelSr/Evaluacion_Final_Mod01_DataAnalytics.git)
 
 
 2. Abre el notebook:
@@ -69,7 +69,7 @@ La clase `TiendaOnline` gestiona el inventario y las operaciones básicas de una
 
 ## 💡 Ejemplo de uso
 
-```python
+
 # Crear una instancia de la tienda
 tienda = TiendaOnline()
 
@@ -84,7 +84,7 @@ tienda.ver_inventario()
 tienda.agregar_cliente("Pandora", "pandi@panditopia.com")
 carrito = tienda.realizar_compra()
 tienda.registrar_compra("Pandora", carrito)
-```
+
 
 ---
 
